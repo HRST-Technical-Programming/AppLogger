@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>HRST.Util.AppLogger</PackageId>
+    <Authors>HRST, Inc.</Authors>
+    <Company>HRST, Inc.</Company>
+    <Description>Library to log text to console.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Logging, Logger, Logs, Text</PackageTags>
+  </PropertyGroup>
+
+</Project>
